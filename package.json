@@ -4,6 +4,7 @@
   "version": "1.0.1",
   "author": "Aman Mittal <amandeepmittal@live.com>",
   "dependencies": {
+    "firebase-tools": "^3.18.2",
     "gatsby": "^1.9.145",
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-google-analytics": "^1.0.12",
@@ -30,9 +31,9 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy": "gatsby build --prefix-links && firebase deploy",
+    "deploy": "gatsby build --prefix-links && firebase deploy --token $FIREBASE_TOKEN",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "devDependencies": {
     "prettier": "^1.9.2"
