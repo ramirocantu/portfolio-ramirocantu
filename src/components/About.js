@@ -41,7 +41,7 @@ const About = () => (
           </div>
           <div className="columns download">
             <p>
-              <a href="#" className="button">
+              <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-ramiro.appspot.com/o/Resume.pdf?alt=media&token=e4cec942-c89c-4f53-a70a-508ef5536d2b" className="button">
                 <FaCloudDownload /> Download Resume
               </a>
             </p>
