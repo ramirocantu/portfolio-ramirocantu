@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Ceevee",
-    author: "Aman Mittal",
-    description: "A Gatsby.js Starter based on Ceevee by Styleshout"
+    title: "Ramiro Cantu",
+    author: "Ramiro Cantu",
+    description: "A software developer"
   },
   pathPrefix: "/",
   plugins: [
