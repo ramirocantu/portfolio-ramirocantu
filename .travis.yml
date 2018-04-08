@@ -8,8 +8,5 @@ cache:
 script:
   - "yarn run test"
   - "yarn run build"
-deploy:
-  provider: script
-  script: "yarn run deploy"
-  on:
-    branch: release
+after_success:
+  - ./deploy.sh
