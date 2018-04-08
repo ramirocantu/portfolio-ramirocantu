@@ -8,6 +8,8 @@ cache:
 script:
   - "yarn run test"
   - "yarn run build"
+before_deploy:
+  - "yarn"
 deploy:
   provider: script
   script: "yarn run deploy"
