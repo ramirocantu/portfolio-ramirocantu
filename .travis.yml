@@ -6,8 +6,8 @@ cache:
   - node_modules
   yarn: true
 before_script:
-  - "npm i -g gatsby"
-  - "npm i"
+  - "yarn global add gatsby"
+  - "yarn install"
 script:
   - "npm run test"
 deploy:
