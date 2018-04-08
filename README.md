@@ -1,35 +1,8 @@
-# gatsby-starter-ceevee
+[![Build Status](https://travis-ci.org/ramirocantu/portfolio-ramirocantu.svg?branch=master)](https://travis-ci.org/ramirocantu/portfolio-ramirocantu)
+# portfolio-ramirocantu
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-
-🚀 Gatsby Starter - CeeVee | Design by Styleshout | Developed in React ⚛️ by Aman Mittal
-
-**[Preview Link](https://gatsby-starter-ceevee.surge.sh)**
-
-### Features:
-
-* Based on the Ceevee site template, design by [Styleshout](https://www.styeshout.com/)
-* Single Page Resume/Portfolio site
-* Target audience Developers, Designers, etc.
-* Used CSS Modules, easy to manipulate
-* FontAwsome Library for icons
-* Responsive Design, optimized for Mobile devices
-
-## Installation
-
-Install this starter (assuming Gatsby is installed) by running from your CLI: gatsby new gatsby-starter-ceevee https://github.com/amandeepmittal/gatsby-starter-ceevee
-
-Run `gatsby develop` in the terminal to start.
-
----
-
-Find more starter templates like this on [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/)
-
-### NOTE
-
-If you are using this theme with Gatsby, please leave a link of your site below. You can inspire someone!
+My own portfolio based on the gatsby starter ceevee project.
+Feel free to edit, copy, remix, sell, etc. as you see fit.
 
 #### License
 
@@ -37,5 +10,6 @@ MIT
 
 ## Contributors
 
+* [Ramiro Cantu](https://ramirocantu.xyz)
 * [Aman Mittal](www.amanhimself.me)
 * [Joe](https://github.com/jastuccio)
