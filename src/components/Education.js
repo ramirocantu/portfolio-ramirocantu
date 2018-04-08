@@ -11,32 +11,28 @@ const Education = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>University of Life</h3>
+          <h3>IDEA McAllen</h3>
           <p className="info">
-            Master in Graphic Design
+            Class of 2020
             <span>&bull;</span>
-            <em className="date">April 2007</em>
+            <em className="date">2014 - <i>present</i></em>
           </p>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-            commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-            Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-            aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-            mollis pretium.
+            Winner of IDEA’s Best Middle School this past year, IDEA McAllen is
+            also home to the Rio Grande Valley Regional Junior Varsity Flag
+            Football Champions!
           </p>
         </div>
       </div>
 
       <div className="row item">
         <div className="twelve columns">
-          <h3>School of Cool Designers</h3>
+          <h3>Online Education</h3>
           <p className="info">
-            B.A. Degree in Graphic Design
+            EdX and Pluralsight courses with a focus in computer science.
             <span>&bull;</span>
-            <em className="date">March 2003</em>
+            <em className="date">March - April 2018</em>
           </p>
 
           <p>
