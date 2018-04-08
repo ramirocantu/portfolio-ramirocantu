@@ -5,13 +5,10 @@ cache:
   directories:
   - node_modules
   yarn: true
-before_script:
-  - "npm i -g gatsby"
-  - "npm i"
 script:
-  - "npm run test"
+  - "yarn run test"
 deploy:
   provider: script
-  script: "npm run deploy"
+  script: "yarn run deploy"
   on:
     branch: release
