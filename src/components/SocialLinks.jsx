@@ -21,11 +21,6 @@ const SocialLinks = () => (
       </a>
     </li>
     <li>
-      <a href="https://plus.google.com/109561790283931025729">
-        <FaGooglePlus />
-      </a>
-    </li>
-    <li>
       <a href="https://www.instagram.com/ramiroivan.cantu/">
         <FaInstagram />
       </a>

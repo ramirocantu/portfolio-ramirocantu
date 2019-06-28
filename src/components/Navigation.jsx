@@ -20,11 +20,11 @@ const Navigation = () => (
         </a>
       </li>
       <li>
-        <a className="smoothscroll" href="#portfolio">
+        <a className="smoothscroll" href="#work">
           Works
         </a>
       </li>
-      <li>
+{/*      <li>
         <a className="smoothscroll" href="#testimonials">
           Testimonials
         </a>
@@ -34,6 +34,7 @@ const Navigation = () => (
           Footer
         </a>
       </li>
+*/}
     </ul>
   </nav>
 );
