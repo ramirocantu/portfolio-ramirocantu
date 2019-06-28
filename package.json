@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "author": "Aman Mittal <amandeepmittal@live.com>",
   "dependencies": {
-    "firebase-tools": "^3.18.2",
+    "firebase-tools": "^7.0.2",
     "gatsby": "^1.9.246",
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-google-analytics": "^1.0.12",
