@@ -8,7 +8,8 @@ const Resume = () => (
   <section id="resume">
     <Education />
     <Work />
-    <Skills />
+    {//<Skills />
+    }
   </section>
 );
 
