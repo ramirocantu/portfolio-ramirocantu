@@ -20,7 +20,7 @@ const Work = () => (
           </p>
 
           <p>
-            Tutored Computer Science to High Schoolers, and preparing them for the UIL Competition.
+            Tutored Computer Science to High Schoolers, and prepared them for the UIL Competition.
             We won first place in the school district in 2018 and 2019.
           </p>
         </div>
